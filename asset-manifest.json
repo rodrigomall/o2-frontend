@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/o2-frontend/static/css/main.ff32e7e0.chunk.css",
+    "main.js": "/o2-frontend/static/js/main.f40686f1.chunk.js",
+    "main.js.map": "/o2-frontend/static/js/main.f40686f1.chunk.js.map",
+    "runtime-main.js": "/o2-frontend/static/js/runtime-main.f3e20323.js",
+    "runtime-main.js.map": "/o2-frontend/static/js/runtime-main.f3e20323.js.map",
+    "static/css/2.150d169a.chunk.css": "/o2-frontend/static/css/2.150d169a.chunk.css",
+    "static/js/2.f45e5828.chunk.js": "/o2-frontend/static/js/2.f45e5828.chunk.js",
+    "static/js/2.f45e5828.chunk.js.map": "/o2-frontend/static/js/2.f45e5828.chunk.js.map",
+    "index.html": "/o2-frontend/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/o2-frontend/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ff32e7e0.chunk.css.map": "/o2-frontend/static/css/main.ff32e7e0.chunk.css.map",
+    "static/js/2.f45e5828.chunk.js.LICENSE.txt": "/o2-frontend/static/js/2.f45e5828.chunk.js.LICENSE.txt",
+    "static/media/concentrator.e6e223d9.png": "/o2-frontend/static/media/concentrator.e6e223d9.png",
+    "static/media/cylinder.964f5e7f.png": "/o2-frontend/static/media/cylinder.964f5e7f.png",
+    "static/media/doctors.7e9b515b.png": "/o2-frontend/static/media/doctors.7e9b515b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e20323.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f45e5828.chunk.js",
+    "static/css/main.ff32e7e0.chunk.css",
+    "static/js/main.f40686f1.chunk.js"
+  ]
+}
